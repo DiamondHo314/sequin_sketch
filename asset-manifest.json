@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sequin_sketch/static/css/main.5b1a848f.css",
+    "main.js": "/sequin_sketch/static/js/main.5fcc4f05.js",
+    "static/js/787.d694da6e.chunk.js": "/sequin_sketch/static/js/787.d694da6e.chunk.js",
+    "index.html": "/sequin_sketch/index.html",
+    "main.5b1a848f.css.map": "/sequin_sketch/static/css/main.5b1a848f.css.map",
+    "main.5fcc4f05.js.map": "/sequin_sketch/static/js/main.5fcc4f05.js.map",
+    "787.d694da6e.chunk.js.map": "/sequin_sketch/static/js/787.d694da6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1a848f.css",
+    "static/js/main.5fcc4f05.js"
+  ]
+}
